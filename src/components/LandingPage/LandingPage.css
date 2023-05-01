@@ -1,0 +1,39 @@
+.landing-page {
+    background-color: rgb(230, 230, 228);
+    height: 90vh;
+    width: 90vw;
+    border-radius: 20px;
+    display: flex;
+    font-size: 30px;
+}
+
+.text-heading {
+    width: 50vw;
+    padding-top: 10%;
+    padding-left: 30px;
+}
+
+h1 {
+    text-shadow:
+        1px 0px 0px #000,
+        -1px 0px 0px #000,
+        0px 1px 0px #000,
+        0px -1px 0px #000;
+}
+
+.pic {
+    width: 50vw;
+}
+
+.pic-container {
+    height: 400px;
+    width: 400px;
+    background-color: white;
+    margin-left: 60px;
+    border-radius: 50%;
+    margin-top: 45%;
+}
+
+.business-image {
+    height: 330px;
+}
